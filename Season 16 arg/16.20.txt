@@ -1,0 +1,2 @@
+-noeac -fromfl=be -fltoken=7d05d6869798a086b4bb6222 
+Taken from StormFN Launcher
