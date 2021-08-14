@@ -1,4 +1,4 @@
-# Fortnite Args/Fltokens
+# Fortnite Args/Fltokens and Offsets
 
 DM Me if you got any other seasons fltokens
 <br>
