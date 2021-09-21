@@ -8,7 +8,7 @@ I Do Update This (might take a while bc i dont play much fn)
 <br>
 Make sure its the correct fltoken
 <br>
-16.20 Thx For Storm Launcher
+16.20 Thanks For Storm Launcher
 <br>
 17.21 NiteStats
 <br>
