@@ -48,7 +48,11 @@
 ``-noeac``
 
 ### Season 5
-not tested
+
+## 5.00
+``-noeac``
+## 5.10
+``-noeac``
 
 ### Season 6
 
