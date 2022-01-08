@@ -12,4 +12,4 @@ Make sure its the correct fltoken
 <br>
 17.21 NiteStats
 <br>
-10.40 + 9.40 (Rift Offsets)
+9.40 (Rift Offsets)
