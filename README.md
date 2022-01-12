@@ -14,6 +14,4 @@ Make sure its the correct fltoken
 <br>
 9.40 (Rift Offsets)
 <br><br>
-DM Me if you got any other seasons fltokens
-<br>
-zinx#9999 or make a pull request
+make a pull request if you got an older version
