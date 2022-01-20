@@ -15,3 +15,7 @@ Make sure its the correct fltoken
 9.40 (Rift Offsets)
 <br><br>
 make a pull request if you got an older version
+<br><br>
+- - - - - - - - - - - - - -
+<br><br>
+If you want to save this on your github please fork it or private it (or give credit)
