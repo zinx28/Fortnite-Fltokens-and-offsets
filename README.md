@@ -1,4 +1,9 @@
 # Fortnite Args/Fltokens and Offsets
+<a href="https://github.com/zinx-YT">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=zinx-YT" alt="Profile Views Count">
+  </p>
+</a>
 
 I may update the offsets each update now instead the args
 <br>
