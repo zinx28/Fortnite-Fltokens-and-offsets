@@ -1,6 +1,6 @@
 # Fortnite Args/Fltokens and Offsets
 
-I may update the offsets each update now instead the args
+<!--I may update the offsets each update now instead the args-->
 <br>
 The grabber still works so yeah (version 1 or 2 will work fine)
 <br><br>
