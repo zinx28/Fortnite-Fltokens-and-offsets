@@ -1,5 +1,9 @@
-# Fltokens
+# Args
+
 ## Chapter 1
+<details>
+   <summary>Args</summary>
+  
 | Version | Arg |
 | - | - |
 | Season 0 (all) | -noeac |
@@ -14,7 +18,14 @@
 | Season 8.51 | -nobe -fromfl=eac -fltoken=hchc0906bb1bg83c3934fa31 |
 | Season 9.30 | -nobe -fromfl=eac -fltoken=c2cdd5fc06cc27fdg7h9aE99 |
 | Season 10.40 | -nobe -fromfl=eac -fltoken=h1cdhchd10150221h130eB56 |
+  
+</details>
+
+
 ## Chapter 2 
+<details>
+   <summary>Args</summary>
+  
 | Version | Arg |
 | - | - |
 | Season 11.00 | |
@@ -67,7 +78,15 @@
 | Season 18.10 | -noeac -fromfl=be -fltoken=020912211c40g052474d02f1 |
 | Season 18.20 | -nobe -fromfl=eac -fltoken=3c836951cd605a77bc8132f4 |
 | Season 18.30 | -nobe -fromfl=eac -fltoken=0bg9f435313840a04b5d0Fe0 |
+  
+</details>
+
 ## Chapter 3
+<details>
+   <summary>Args</summary>
+  
 | Version | Arg |
 | - | - |
 | Season 19.00 (all) | -nobe -fromfl=be -caldera=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiZmY0YzEyMjQ5NzU5NGI5MGJlMDk1OWYxOGM2NWQwOGIiLCJnZW5lcmF0ZWQiOjE2NDEwOTI1NjUsImNhbGRlcmFHdWlkIjoiODQ0ODdkZmMtMGMxNC00YTUyLWFmYjgtNGY1ZWM5YzQyMjg0IiwiYWNQcm92aWRlciI6IkJhdHRsRXllIiwibm90ZXMiOiIiLCJmYWxsYmFjayI6ZmFsc2V9.E74n07NqNGmPPJ7NnK9EewIIb2Yjj3YP6Ghqrsd2iBe8e-z-ZkUiUwIH0DTd78yB5UDBDXdzOKBdsD0Mdjy5_A |
+  
+</details>
