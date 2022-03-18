@@ -6,9 +6,8 @@ The grabber still works so yeah (version 1 or 2 will work fine)
 <br><br>
 I Do Update This (might take a while bc i dont play much fn)
 <br>
-I've updated this added chapter 3, fixed some issues,
 
-[updated the README](https://github.com/zinx-YT/Fortnite-Fltokens-and-offsets/blob/main/Fltokens/README.md)
+I've updated this added chapter 3, fixed some issues, [updated the README](https://github.com/zinx-YT/Fortnite-Fltokens-and-offsets/blob/main/Fltokens/README.md)
 
 
 
