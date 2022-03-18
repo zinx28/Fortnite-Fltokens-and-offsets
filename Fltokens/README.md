@@ -11,7 +11,7 @@
 | Season 2 (all) | -noeac |
 | Season 3 (all) | -noeac |
 | Season 4 (all) | -noeac |
-| Season 5 (only found 5.0 - 5.10 | -noeac |
+| Season 5 (only found 5.0 - 5.10) | -noeac |
 | Season 6.10 (could be bugged) | -noeac -fromfl=be -fltoken= |
 | Season 7.30 | -noeac -fromfl=be -fltoken=9c69a430i3c1c3d9i3e68A5c |
 | Season 7.40 | -noeac -fromfl=be -fltoken=db04e37196g0h6h8e003c19d |
