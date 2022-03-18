@@ -17,7 +17,6 @@ I've updated this added chapter 3, fixed some issues, [updated the README](https
 make a pull request if you got an older version
 <br>
 Make sure its the correct fltoken/caldera
-<br><br>
+<br>
 - - - - - - - - - - - - - -
-<br><br>
 If you want to save this on your github please fork it or private it (or give credit)
