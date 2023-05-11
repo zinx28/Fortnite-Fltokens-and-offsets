@@ -1,22 +1,13 @@
-# Fortnite Args/Fltokens/caldera and Offsets
+# Fortnite Args/Fltokens/caldera and Offsets [ARCHIVED]
 
-<!--I may update the offsets each update now instead the args-->
 <br>
-The grabber still works so yeah (version 1 or 2 will work fine)
+The grabber still works so yeah (version 1 or 2 will work fine) - ive havent tested this
 <br><br>
-I Do Update This (might take a while bc i dont play much fn)
-<br>
 
 I've updated this added chapter 3, fixed some issues, [updated the README](https://github.com/zinx-YT/Fortnite-Fltokens-and-offsets/blob/main/Fltokens/README.md)
-
-16.20 Thanks For Storm Launcher and NiteStats for 17.21
-<br>
-<br>
-9.40 (Rift Offsets)
 <br><br>
-make a pull request if you got an older version
-<br>
-Make sure its the correct fltoken/caldera
-<br>
+
+THIS WILL NO LONGER UPDATE YOU COULD USE https://cloudfn.dev/token BUT THIS WILL BE GOING OFFLINE IN THE FUTURE
+
 - - - - - - - - - - - - - -
 If you want to save this on your github please fork it or private it (or give credit)
